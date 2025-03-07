@@ -32,6 +32,7 @@ Outcome:Provided actionable steps to enhance customer retention and minimize chu
 <img width="342" alt="Tuned Random Forest" src="https://github.com/user-attachments/assets/d3b252e3-67e6-4f79-8fb3-867d182f3b3c" />
 <img width="305" alt="Tuned XGBoost" src="https://github.com/user-attachments/assets/69c41c2c-ec63-4e7a-ab2e-3e4902bfc162" />
 <img width="438" alt="AUC Tuned Random Forest" src="https://github.com/user-attachments/assets/4ad97310-8e32-4b81-a1b8-c1140a17b544" />
+<img width="409" alt="AUC XGBoost" src="https://github.com/user-attachments/assets/dc5be617-670a-44a8-8367-92d545372e49" />
 
 
 **Recommendations:**
