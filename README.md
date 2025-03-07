@@ -27,10 +27,11 @@ Outcome:Provided actionable steps to enhance customer retention and minimize chu
 <img width="619" alt="Feature Importance" src="https://github.com/user-attachments/assets/865ba7fa-3382-4f3c-b756-f8c28b3cdd08" />
 
 
-**Models:**
+**Best Performing Models Confusion Matrix and AUC Evaluation:**
 
 <img width="342" alt="Tuned Random Forest" src="https://github.com/user-attachments/assets/d3b252e3-67e6-4f79-8fb3-867d182f3b3c" />
 <img width="305" alt="Tuned XGBoost" src="https://github.com/user-attachments/assets/69c41c2c-ec63-4e7a-ab2e-3e4902bfc162" />
+<img width="438" alt="AUC Tuned Random Forest" src="https://github.com/user-attachments/assets/4ad97310-8e32-4b81-a1b8-c1140a17b544" />
 
 
 **Recommendations:**
